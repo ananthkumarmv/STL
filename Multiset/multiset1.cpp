@@ -64,7 +64,6 @@ int main(){
     {
         cout  << *itr << " ";
     }
- 
     cout << endl;
     
      //lower bound and upper bound for multiset gquiz1
