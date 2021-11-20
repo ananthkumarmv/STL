@@ -12,8 +12,7 @@ int main(){
 	else{
 		cout<<"False";
 	}
-
-
+	
     return 0;
 }
 
