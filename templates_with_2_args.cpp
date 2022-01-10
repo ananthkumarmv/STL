@@ -15,6 +15,7 @@ class A{
 		}
 };
 
+
 int main() {
 	A<char, char> a;
 	A<int, double> b;
