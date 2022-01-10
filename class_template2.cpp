@@ -21,6 +21,7 @@ class Pair{				//struct means class here. The only difference is pubic by defaul
 };
 
 
+
 template<class T>
 T Pair<T>::getFirst(){
 	return x;
