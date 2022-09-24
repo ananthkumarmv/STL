@@ -15,11 +15,9 @@ int main() {
 	cout<<(*i)<<" ";		//40
 	
 	i = prev(i,2);			
-	cout<<(*i)<<" ";		//30
+	cout<<(*i)<<" ";		//20
     
     advance(i, 3);
-    cout<<(*i)<<" ";
+    cout<<(*i)<<" ";        //50
     return 0;
 }
-
-
